@@ -1,0 +1,2 @@
+# ErBalkan.Core
+Core mimarim
